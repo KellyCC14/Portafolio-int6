@@ -87,7 +87,7 @@ h1{
     margin-top:60px;
     margin-left:90px;
     border:3px solid whitesmoke;
-    box-shadow: 0px 0px 100px rgba(53, 70, 119, 0.596);
+    box-shadow: 0px 0px 100px grey;
 }
 .img3{
     width:250px;
@@ -95,7 +95,7 @@ h1{
     margin-top:-130px;
     margin-left:550px;
     border:3px solid whitesmoke;
-    box-shadow: 0px 0px 100px rgba(53, 70, 119, 0.596);
+    box-shadow: 0px 0px 100px grey;
     
 }
 .img4{
@@ -104,7 +104,7 @@ h1{
     margin-top:-220px;
     margin-left:500px;
     border:3px solid whitesmoke;
-    box-shadow: 0px 0px 100px rgba(53, 70, 119, 0.596);
+    box-shadow: 0px 0px 100px black;
 }
 .img5{
     width:250px;
@@ -112,7 +112,7 @@ h1{
     margin-top:-30px;
     margin-left:20px;
     border:3px solid whitesmoke;
-    box-shadow: 0px 0px 100px rgba(53, 70, 119, 0.596);
+    box-shadow: 0px 0px 100px burlywood;
 }
 .img6{
     width:200px;
@@ -120,7 +120,7 @@ h1{
     margin-top:-50px;
     margin-left:690px;
     border:3px solid whitesmoke;
-    box-shadow: 0px 0px 100px rgba(53, 70, 119, 0.596);
+    box-shadow: 0px 0px 100px burlywood;
 }
 .img7{
     width:220px;
@@ -128,20 +128,44 @@ h1{
     margin-top:-20px;
     margin-left:390px;
     border:3px solid whitesmoke;
-    box-shadow: 0px 0px 100px rgba(53, 70, 119, 0.596);
+    box-shadow: 0px 0px 100px burlywood;
 }
 .img8{
     width:200px;
     position:absolute;
-    margin-top:100px;
+    margin-top:90px;
     margin-left:50px;
     border:3px solid whitesmoke;
-    box-shadow: 0px 0px 100px rgba(53, 70, 119, 0.596);
+    box-shadow: 0px 0px 100px burlywood;
     transform: rotate(-90deg);
     -webkit-transform: rotate(-90deg);
     -moz-transform: rotate(-90deg);
     -ms-transform: rotate(-90deg);
     -o-transform: rotate(-90deg);
+}
+.doct{
+    width:220px;
+    position:absolute;
+    margin-top:50px;
+    margin-left:40px;
+    border:3px solid whitesmoke;
+    box-shadow: 0px 0px 100px green;
+}
+.abog{
+    width:280px;
+    position:absolute;
+    margin-top:-20px;
+    margin-left:370px;
+    border:3px solid whitesmoke;
+    box-shadow: 0px 0px 100px green;
+}
+.crim{
+    width:280px;
+    position:absolute;
+    margin-top:200px;
+    margin-left:600px;
+    border:3px solid whitesmoke;
+    box-shadow: 0px 0px 100px green;
 }
 .contenedor2{
     display:flex;
@@ -187,5 +211,10 @@ h1{
 }
 li{
     padding:15px;
+}
+.t-aspi{
+    margin-top: 20px;
+    margin-left: 40px;
+    color:black;
 }
 
